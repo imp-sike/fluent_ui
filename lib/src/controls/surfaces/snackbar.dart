@@ -1,8 +1,8 @@
 import 'package:fluent_ui/fluent_ui.dart';
 import 'package:flutter/foundation.dart';
 
-const Duration snackbarShortDuration = Duration(seconds: 2);
-const Duration snackbarLongDuration = Duration(seconds: 2);
+const Duration snackbarShortDuration = Duration(seconds: 1.5);
+const Duration snackbarLongDuration = Duration(seconds: 2.75);
 
 /// Shows a snackbar on the given context.
 ///
